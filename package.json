@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-mongodb",
+  "version": "1.0.0",
+  "description": "sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahmetsahinoglu/nodejs-mongodb.git"
+  },
+  "keywords": [],
+  "author": "“Ahmet <“sahinoglu.ahmetmesut@gmail.com”> (https://github.com/ahmetsahinoglu)",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
